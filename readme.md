@@ -15,4 +15,3 @@
 |week8|[앙상블 기법](./week8.ipynb)
 |week9|[앙상블 기법2](./week9.ipynb)
 |week10|[도시범죄 API 활용](./week10.ipynb)
-|week11|[뉴스 요약봇 만들기](./week11.ipynb)
