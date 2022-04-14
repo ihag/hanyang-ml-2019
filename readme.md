@@ -16,6 +16,3 @@
 |week9|[앙상블 기법2](./week9.ipynb)
 |week10|[도시범죄 API 활용](./week10.ipynb)
 |week11|[뉴스 요약봇 만들기](./week11.ipynb)
-|week12|[인공지능으로 없는 패션 만들기](./week12.ipynb)
-|week13|[주식 가격 예측하기](./week13.ipynb)
-|week14|[폐렴 진단하기](./week14.ipynb)
